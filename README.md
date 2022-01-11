@@ -1,5 +1,5 @@
 # Ejercicios de Maquetación
-## Con HTMl y CSS
+## Con HTMl, CSS y JS
 
 #### Incluye
 - Estructuras Sitio Web
@@ -10,5 +10,6 @@
 - Uso de Grids
 - Flexbox
 - Mobile first
+- Interactividad con js
 
 ## Más proyectos por venir
